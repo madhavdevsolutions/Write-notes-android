@@ -1,7 +1,7 @@
 # 📝 Write Notes – Android Notes App
 
 ## 📖 Overview
-MyNotes is a simple and lightweight Android note-taking application built using **Java** and **Room Database**.  
+Write Notes is a simple and lightweight Android note-taking application built using **Java** and **Room Database**.  
 It allows users to create, view, search, and manage notes efficiently with a clean and user-friendly interface.
 
 ---
